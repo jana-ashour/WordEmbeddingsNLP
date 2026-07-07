@@ -1,7 +1,5 @@
 # Intrinsic Evaluation of Word Embeddings: GloVe vs Word2Vec vs fastText
 
-AI454 — Natural Language Processing
-
 **Author:** Jana Ashour
 
 ## Task
